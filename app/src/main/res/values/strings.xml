@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ivy League</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_harvard">Harvard University</string>
+    <string name="title_activity_columbia">Columbia University</string>
+    <string name="title_activity_pennsylvania">University of Pennsylvania</string>
+    <string name="title_activity_princeton">Princeton University</string>
+    <string name="title_activity_brown">Brown University</string>
+    <string name="title_activity_cornell">Cornell University</string>
+    <string name="title_activity_dartmouth">Dartmouth College</string>
+    <string name="title_activity_yale">Yale University</string>
+</resources>
